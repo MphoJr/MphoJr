@@ -3,7 +3,7 @@
 Fullstack Developer in Progress · Problem Solver · Always Learning 
 
 ---
-![Mpho Avatar](assets/mpho-avatar.png)
+![Mpho Avatar](assets/MphoJr.png)
 
 
 ## 💡 About Me
