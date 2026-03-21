@@ -9,7 +9,7 @@ Fullstack Developer in Progress · Problem Solver · Always Learning
 ## 💡 About Me
 
 🎓 Diploma in IT Software Development + Higher Certificate in IT User Support  
-💻 Currently building and maintaining web applications at Naume Tech  
+💻 Currently building and maintaining web applications 
 🛠️ Experienced in troubleshooting, debugging, and resolving frontend/backend errors  
 ⚡ Passionate about turning ideas into responsive, user-friendly products with clean UI + solid backend  
 
